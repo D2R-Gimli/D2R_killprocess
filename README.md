@@ -2,7 +2,7 @@
 Short batch script using windows own handle program to kill the hidden "check for other instances" process of D2R so you can start and run multiple D2R games (aka mutliboxing).
 
 # Install instructions
-*Step 1:
+*Step 1:*
 download the current version of handle from microsoft
 https://learn.microsoft.com/en-us/sysinternals/downloads/handle
 
