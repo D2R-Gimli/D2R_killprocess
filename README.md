@@ -17,7 +17,7 @@ extract the killprocess.bat file whereever you want (D2R directory etc..)
 
 Step 5:
 create a shortcut for the killprocess.bat file and place it to the desktop. In the shortcut properties set aswell "always run as admin".
-(Note: you can shoose a random icon for the shortcut if you want)
+(Note: you can choose a random icon for the shortcut if you want)
 
 Step 6:
 start the battle.net launcher and go into the game settings -> app -> when clicking x -> exit battle.net completely must be set.
